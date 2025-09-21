@@ -3,7 +3,7 @@
   "applications": {
     "car-wash-site": {
       "development": {
-        "fallback": "tbiwash.com"
+        "fallback": "car-wash-site-git-main-ace-demo.vercel.app"
       }
     }
   }
