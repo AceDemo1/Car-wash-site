@@ -72,7 +72,7 @@ const Footer = () => {
                 <MapPin className="h-4 w-4 text-blue-400 mt-1" />
                 <span className="text-gray-300">
                   46 dawson road, So19 0sq,<br />
-                  Southampton,United Kingdom.
+                  Southampton, United Kingdom.
                 </span>
               </div>
             </div>
