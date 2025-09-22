@@ -84,8 +84,7 @@ const ContactPage = () => {
                     <div>
                       <h4 className="font-semibold text-gray-900">Address</h4>
                       <p className="text-gray-600">
-                        46 dawson road,<br />
-                        So19 0sq, Southampton,<br />
+                        46 dawson road, So19 0sq, Southampton,<br />
                         United Kingdom.
                       </p>
                     </div>
