@@ -37,10 +37,10 @@ const ContactPage = () => {
                     <div>
                       <h4 className="font-semibold text-gray-900">Phone</h4>
                       <a 
-                        href="tel:+2348166751643"
+                        href="tel:+447827092693"
                         className="text-blue-600 hover:text-blue-800 transition-colors duration-200"
                       >
-                        +234 816 675 1643
+                        +44 7827 092693
                       </a>
                     </div>
                   </div>
@@ -52,7 +52,7 @@ const ContactPage = () => {
                     <div>
                       <h4 className="font-semibold text-gray-900">WhatsApp</h4>
                       <a 
-                        href="https://wa.me/2348166751643"
+                        href="https://wa.me/447827092693"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-green-600 hover:text-green-800 transition-colors duration-200"
@@ -69,10 +69,10 @@ const ContactPage = () => {
                     <div>
                       <h4 className="font-semibold text-gray-900">Email</h4>
                       <a 
-                        href="mailto:lawal641@gmail.com"
+                        href="mailto:dbsadepoju@gmail.com"
                         className="text-purple-600 hover:text-purple-800 transition-colors duration-200"
                       >
-                        lawal641@gmail.com
+                        dbsadepoju@gmail.com
                       </a>
                     </div>
                   </div>
@@ -84,8 +84,9 @@ const ContactPage = () => {
                     <div>
                       <h4 className="font-semibold text-gray-900">Address</h4>
                       <p className="text-gray-600">
-                        Afenifere street, Kobo area,<br />
-                        Osogbo, Osun state
+                        46 dawson road,<br />
+                        So19 0sq, Southampton,<br />
+                        United Kingdom.
                       </p>
                     </div>
                   </div>
@@ -96,7 +97,7 @@ const ContactPage = () => {
               <div className="bg-gradient-to-r from-green-500 to-green-600 rounded-lg p-8 text-white text-center">
                 <div className="bg-white rounded-lg p-4 inline-block mb-4 flex items-center justify-center">
                   <img 
-                    src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://wa.me/2348166751643?text=Hi!%20I%27d%20like%20to%20book%20a%20car%20wash%20service.%20Please%20send%20me%20more%20details." 
+                    src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://wa.me/447827092693?text=Hi!%20I%27d%20like%20to%20book%20a%20car%20wash%20service.%20Please%20send%20me%20more%20details." 
                     alt="WhatsApp QR Code" 
                     className="w-32 h-32"
                     onError={(e) => {
@@ -115,7 +116,7 @@ const ContactPage = () => {
                   Scan the QR code or click below for instant WhatsApp booking
                 </p>
                 <a
-                  href="https://wa.me/2348166751643?text=Hi! I'd like to book a car wash service. Please send me more details."
+                  href="https://wa.me/447827092693?text=Hi! I'd like to book a car wash service. Please send me more details."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white text-green-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors duration-200 inline-flex items-center space-x-2"

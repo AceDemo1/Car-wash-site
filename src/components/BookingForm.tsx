@@ -169,11 +169,11 @@ ${bookingData.notes ? `*Notes:* ${bookingData.notes}` : ''}
 Please confirm this booking with the customer! 📅✨`;
 
     // Open email client
-    const mailtoUrl = `mailto:lawal641@gmail.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
+    const mailtoUrl = `mailto:dbsadepoju@gmail.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
     window.open(mailtoUrl, '_blank');
 
     // Open WhatsApp
-    const whatsappUrl = `https://wa.me/2348166751643?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/+447827092693?text=${encodeURIComponent(whatsappMessage)}`;
     window.open(whatsappUrl, '_blank');
   };
 

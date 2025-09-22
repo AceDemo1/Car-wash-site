@@ -56,7 +56,7 @@ Deno.serve(async (req: Request) => {
     const twilioAuthToken = Deno.env.get('TWILIO_AUTH_TOKEN');
     const twilioWhatsAppNumber = Deno.env.get('TWILIO_WHATSAPP_NUMBER'); // e.g., 'whatsapp:+14155238886'
     const yourWhatsAppNumber = Deno.env.get('YOUR_WHATSAPP_NUMBER'); // e.g., 'whatsapp:+2348166751643'
-    const yourEmail = Deno.env.get('YOUR_EMAIL') || 'lawal641@gmail.com';
+    const yourEmail = Deno.env.get('YOUR_EMAIL') || 'dbsadepoju@gmail.com';
 
     let emailSent = false;
     let whatsappSent = false;

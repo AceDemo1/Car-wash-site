@@ -45,7 +45,7 @@ Deno.serve(async (req: Request) => {
 
     // Get API key from environment variables
     const resendApiKey = Deno.env.get('RESEND_API_KEY');
-    const yourEmail = Deno.env.get('YOUR_EMAIL') || 'lawal641@gmail.com';
+    const yourEmail = Deno.env.get('YOUR_EMAIL') || 'dbsadepoju@gmail.com';
     
     // Debug logging
     console.log('Environment check:', {

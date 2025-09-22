@@ -113,7 +113,7 @@ const BookingConfirmationHandler = () => {
           </a>
           
           <a
-            href="https://wa.me/2348166751643"
+            href="https://wa.me/+447827092693"
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200"

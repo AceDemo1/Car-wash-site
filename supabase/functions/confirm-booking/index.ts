@@ -162,13 +162,13 @@ Deno.serve(async (req: Request) => {
                 </ul>
               </div>
               <div style="text-align: center; margin-bottom: 25px;">
-                <a href="https://wa.me/2348166751643" style="background-color: #10b981; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">
+                <a href="https://wa.me/+447827092693" style="background-color: #10b981; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">
                   💬 Contact Us on WhatsApp
                 </a>
               </div>
               <div style="border-top: 1px solid #e5e7eb; padding-top: 20px; text-align: center;">
                 <p style="color: #6b7280; font-size: 14px; margin: 0;">
-                  Need to reschedule or have questions? Contact us at +234 816 675 1643
+                  Need to reschedule or have questions? Contact us at +447827092693
                 </p>
                 <p style="color: #6b7280; font-size: 12px; margin: 10px 0 0 0;">
                   TBI Mobile Car Wash - We bring the shine to you!
